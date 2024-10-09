@@ -10,4 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We're P1G2 from CCT24/27 @ AAU CPH
+We're Copenair and our mission is simple;
+create a polution heatmap over copenhagens to enable action to be taken in areas with high air polution
